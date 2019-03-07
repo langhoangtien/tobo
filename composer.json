@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
     "autoload-dev": {
         "psr-4": {
-            "Langhoangtien\\": "src/"
+            "Langhoangtien\\Tobo\\": "src"
         }
     },
     "extra": {

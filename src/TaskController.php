@@ -10,9 +10,7 @@ class TaskController extends Controller
 {
     public function index()
     {
-        $tasks = Task::all();
-        $submit = 'Add';
-        return view('tobo::list', compact('tasks', 'submit'));
+        return "package is running normal";
     }
 
     public function create()
