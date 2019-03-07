@@ -1,0 +1,12 @@
+{
+    "name": "lang/tobo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hoàng Tiến Lăng",
+            "email": "dev13@lifetek.vn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
