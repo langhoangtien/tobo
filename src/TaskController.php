@@ -1,10 +1,10 @@
 <?php
 
-namespace Htl\Tobo;
+namespace Langhoangtien\Tobo;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Htl\Tobo\Task;
+use Langhoangtien\Tobo\Task;
 
 class TaskController extends Controller
 {

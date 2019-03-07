@@ -1,6 +1,6 @@
 <?php
 
-namespace Htl\Tobo;
+namespace Langhoangtien\Tobo;
 
 use Illuminate\Database\Eloquent\Model;
 

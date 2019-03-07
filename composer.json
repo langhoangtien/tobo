@@ -1,5 +1,5 @@
 {
-    "name": "hoangtienlang/tobo",
+    "name": "langhoangtien/tobo",
     "license": "MIT",
     "authors": [
         {
@@ -8,5 +8,16 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "autoload-dev": {
+        "psr-4": {
+            "Langhoangtien\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Langhoangtien\\Tobo\\ToboServiceProvider"
+            ]
+        }
+    }
 }

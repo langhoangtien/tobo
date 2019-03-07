@@ -1,2 +1,2 @@
 <?php
-Route::resource('/task', 'Htl\Tobo\TaskController');
+Route::resource('/task', 'Langhoangtien\Tobo\TaskController');
